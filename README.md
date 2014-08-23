@@ -1,6 +1,6 @@
 # Ember-cordova-animation-demo
 
-This README outlines the details of collaborating on this Ember application.
+This app uses [Foundation 6 Alpha](https://github.com/zurb/foundation-apps) and [Liquid Fire](https://github.com/ef4/liquid-fire) to demonstrate the capabilities of developing native web-apps for mobile platforms, like iOS and Android, using [Ember CLI Cordova](https://github.com/poetic/ember-cli-cordova).
 
 ## Installation
 
