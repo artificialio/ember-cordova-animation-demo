@@ -2377,6 +2377,90 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   -ms-flex-order: 12;
   order: 12;
 }
+/* line 37, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-order-13, .group.small-order-13 {
+  -webkit-box-ordinal-group: 14;
+  -webkit-order: 13;
+  -ms-flex-order: 13;
+  order: 13;
+}
+/* line 37, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-order-14, .group.small-order-14 {
+  -webkit-box-ordinal-group: 15;
+  -webkit-order: 14;
+  -ms-flex-order: 14;
+  order: 14;
+}
+/* line 37, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-order-15, .group.small-order-15 {
+  -webkit-box-ordinal-group: 16;
+  -webkit-order: 15;
+  -ms-flex-order: 15;
+  order: 15;
+}
+/* line 37, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-order-16, .group.small-order-16 {
+  -webkit-box-ordinal-group: 17;
+  -webkit-order: 16;
+  -ms-flex-order: 16;
+  order: 16;
+}
+/* line 37, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-order-17, .group.small-order-17 {
+  -webkit-box-ordinal-group: 18;
+  -webkit-order: 17;
+  -ms-flex-order: 17;
+  order: 17;
+}
+/* line 37, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-order-18, .group.small-order-18 {
+  -webkit-box-ordinal-group: 19;
+  -webkit-order: 18;
+  -ms-flex-order: 18;
+  order: 18;
+}
+/* line 37, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-order-19, .group.small-order-19 {
+  -webkit-box-ordinal-group: 20;
+  -webkit-order: 19;
+  -ms-flex-order: 19;
+  order: 19;
+}
+/* line 37, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-order-20, .group.small-order-20 {
+  -webkit-box-ordinal-group: 21;
+  -webkit-order: 20;
+  -ms-flex-order: 20;
+  order: 20;
+}
+/* line 37, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-order-21, .group.small-order-21 {
+  -webkit-box-ordinal-group: 22;
+  -webkit-order: 21;
+  -ms-flex-order: 21;
+  order: 21;
+}
+/* line 37, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-order-22, .group.small-order-22 {
+  -webkit-box-ordinal-group: 23;
+  -webkit-order: 22;
+  -ms-flex-order: 22;
+  order: 22;
+}
+/* line 37, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-order-23, .group.small-order-23 {
+  -webkit-box-ordinal-group: 24;
+  -webkit-order: 23;
+  -ms-flex-order: 23;
+  order: 23;
+}
+/* line 37, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-order-24, .group.small-order-24 {
+  -webkit-box-ordinal-group: 25;
+  -webkit-order: 24;
+  -ms-flex-order: 24;
+  order: 24;
+}
 @media only screen and (min-width: 40.063em) {
   /* line 44, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .block.medium-order-0, .group.medium-order-0 {
@@ -2468,6 +2552,90 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     -webkit-order: 12;
     -ms-flex-order: 12;
     order: 12;
+  }
+  /* line 44, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-order-13, .group.medium-order-13 {
+    -webkit-box-ordinal-group: 14;
+    -webkit-order: 13;
+    -ms-flex-order: 13;
+    order: 13;
+  }
+  /* line 44, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-order-14, .group.medium-order-14 {
+    -webkit-box-ordinal-group: 15;
+    -webkit-order: 14;
+    -ms-flex-order: 14;
+    order: 14;
+  }
+  /* line 44, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-order-15, .group.medium-order-15 {
+    -webkit-box-ordinal-group: 16;
+    -webkit-order: 15;
+    -ms-flex-order: 15;
+    order: 15;
+  }
+  /* line 44, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-order-16, .group.medium-order-16 {
+    -webkit-box-ordinal-group: 17;
+    -webkit-order: 16;
+    -ms-flex-order: 16;
+    order: 16;
+  }
+  /* line 44, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-order-17, .group.medium-order-17 {
+    -webkit-box-ordinal-group: 18;
+    -webkit-order: 17;
+    -ms-flex-order: 17;
+    order: 17;
+  }
+  /* line 44, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-order-18, .group.medium-order-18 {
+    -webkit-box-ordinal-group: 19;
+    -webkit-order: 18;
+    -ms-flex-order: 18;
+    order: 18;
+  }
+  /* line 44, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-order-19, .group.medium-order-19 {
+    -webkit-box-ordinal-group: 20;
+    -webkit-order: 19;
+    -ms-flex-order: 19;
+    order: 19;
+  }
+  /* line 44, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-order-20, .group.medium-order-20 {
+    -webkit-box-ordinal-group: 21;
+    -webkit-order: 20;
+    -ms-flex-order: 20;
+    order: 20;
+  }
+  /* line 44, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-order-21, .group.medium-order-21 {
+    -webkit-box-ordinal-group: 22;
+    -webkit-order: 21;
+    -ms-flex-order: 21;
+    order: 21;
+  }
+  /* line 44, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-order-22, .group.medium-order-22 {
+    -webkit-box-ordinal-group: 23;
+    -webkit-order: 22;
+    -ms-flex-order: 22;
+    order: 22;
+  }
+  /* line 44, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-order-23, .group.medium-order-23 {
+    -webkit-box-ordinal-group: 24;
+    -webkit-order: 23;
+    -ms-flex-order: 23;
+    order: 23;
+  }
+  /* line 44, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-order-24, .group.medium-order-24 {
+    -webkit-box-ordinal-group: 25;
+    -webkit-order: 24;
+    -ms-flex-order: 24;
+    order: 24;
   }
 }
 @media only screen and (min-width: 64.063em) {
@@ -2562,6 +2730,90 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     -ms-flex-order: 12;
     order: 12;
   }
+  /* line 52, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-order-13, .group.large-order-13 {
+    -webkit-box-ordinal-group: 14;
+    -webkit-order: 13;
+    -ms-flex-order: 13;
+    order: 13;
+  }
+  /* line 52, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-order-14, .group.large-order-14 {
+    -webkit-box-ordinal-group: 15;
+    -webkit-order: 14;
+    -ms-flex-order: 14;
+    order: 14;
+  }
+  /* line 52, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-order-15, .group.large-order-15 {
+    -webkit-box-ordinal-group: 16;
+    -webkit-order: 15;
+    -ms-flex-order: 15;
+    order: 15;
+  }
+  /* line 52, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-order-16, .group.large-order-16 {
+    -webkit-box-ordinal-group: 17;
+    -webkit-order: 16;
+    -ms-flex-order: 16;
+    order: 16;
+  }
+  /* line 52, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-order-17, .group.large-order-17 {
+    -webkit-box-ordinal-group: 18;
+    -webkit-order: 17;
+    -ms-flex-order: 17;
+    order: 17;
+  }
+  /* line 52, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-order-18, .group.large-order-18 {
+    -webkit-box-ordinal-group: 19;
+    -webkit-order: 18;
+    -ms-flex-order: 18;
+    order: 18;
+  }
+  /* line 52, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-order-19, .group.large-order-19 {
+    -webkit-box-ordinal-group: 20;
+    -webkit-order: 19;
+    -ms-flex-order: 19;
+    order: 19;
+  }
+  /* line 52, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-order-20, .group.large-order-20 {
+    -webkit-box-ordinal-group: 21;
+    -webkit-order: 20;
+    -ms-flex-order: 20;
+    order: 20;
+  }
+  /* line 52, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-order-21, .group.large-order-21 {
+    -webkit-box-ordinal-group: 22;
+    -webkit-order: 21;
+    -ms-flex-order: 21;
+    order: 21;
+  }
+  /* line 52, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-order-22, .group.large-order-22 {
+    -webkit-box-ordinal-group: 23;
+    -webkit-order: 22;
+    -ms-flex-order: 22;
+    order: 22;
+  }
+  /* line 52, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-order-23, .group.large-order-23 {
+    -webkit-box-ordinal-group: 24;
+    -webkit-order: 23;
+    -ms-flex-order: 23;
+    order: 23;
+  }
+  /* line 52, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-order-24, .group.large-order-24 {
+    -webkit-box-ordinal-group: 25;
+    -webkit-order: 24;
+    -ms-flex-order: 24;
+    order: 24;
+  }
 }
 
 /* line 59, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
@@ -2595,12 +2847,32 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
+  -webkit-flex-basis: 4.16667%;
+  -ms-flex-preferred-size: 4.16667%;
+  flex-basis: 4.16667%;
+}
+/* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-2 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
   -webkit-flex-basis: 8.33333%;
   -ms-flex-preferred-size: 8.33333%;
   flex-basis: 8.33333%;
 }
 /* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-.block.small-2 {
+.block.small-3 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-flex-basis: 12.5%;
+  -ms-flex-preferred-size: 12.5%;
+  flex-basis: 12.5%;
+}
+/* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-4 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -2610,7 +2882,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   flex-basis: 16.66667%;
 }
 /* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-.block.small-3 {
+.block.small-5 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-flex-basis: 20.83333%;
+  -ms-flex-preferred-size: 20.83333%;
+  flex-basis: 20.83333%;
+}
+/* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-6 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -2620,7 +2902,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   flex-basis: 25%;
 }
 /* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-.block.small-4 {
+.block.small-7 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-flex-basis: 29.16667%;
+  -ms-flex-preferred-size: 29.16667%;
+  flex-basis: 29.16667%;
+}
+/* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-8 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -2630,7 +2922,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   flex-basis: 33.33333%;
 }
 /* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-.block.small-5 {
+.block.small-9 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-flex-basis: 37.5%;
+  -ms-flex-preferred-size: 37.5%;
+  flex-basis: 37.5%;
+}
+/* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-10 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -2640,7 +2942,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   flex-basis: 41.66667%;
 }
 /* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-.block.small-6 {
+.block.small-11 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-flex-basis: 45.83333%;
+  -ms-flex-preferred-size: 45.83333%;
+  flex-basis: 45.83333%;
+}
+/* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-12 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -2650,7 +2962,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   flex-basis: 50%;
 }
 /* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-.block.small-7 {
+.block.small-13 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-flex-basis: 54.16667%;
+  -ms-flex-preferred-size: 54.16667%;
+  flex-basis: 54.16667%;
+}
+/* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-14 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -2660,7 +2982,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   flex-basis: 58.33333%;
 }
 /* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-.block.small-8 {
+.block.small-15 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-flex-basis: 62.5%;
+  -ms-flex-preferred-size: 62.5%;
+  flex-basis: 62.5%;
+}
+/* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-16 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -2670,7 +3002,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   flex-basis: 66.66667%;
 }
 /* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-.block.small-9 {
+.block.small-17 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-flex-basis: 70.83333%;
+  -ms-flex-preferred-size: 70.83333%;
+  flex-basis: 70.83333%;
+}
+/* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-18 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -2680,7 +3022,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   flex-basis: 75%;
 }
 /* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-.block.small-10 {
+.block.small-19 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-flex-basis: 79.16667%;
+  -ms-flex-preferred-size: 79.16667%;
+  flex-basis: 79.16667%;
+}
+/* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-20 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -2690,7 +3042,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   flex-basis: 83.33333%;
 }
 /* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-.block.small-11 {
+.block.small-21 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-flex-basis: 87.5%;
+  -ms-flex-preferred-size: 87.5%;
+  flex-basis: 87.5%;
+}
+/* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-22 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -2700,7 +3062,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   flex-basis: 91.66667%;
 }
 /* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-.block.small-12 {
+.block.small-23 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-flex-basis: 95.83333%;
+  -ms-flex-preferred-size: 95.83333%;
+  flex-basis: 95.83333%;
+}
+/* line 73, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.block.small-24 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -2726,12 +3098,32 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
+    -webkit-flex-basis: 4.16667%;
+    -ms-flex-preferred-size: 4.16667%;
+    flex-basis: 4.16667%;
+  }
+  /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-2 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
     -webkit-flex-basis: 8.33333%;
     -ms-flex-preferred-size: 8.33333%;
     flex-basis: 8.33333%;
   }
   /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .block.medium-2 {
+  .block.medium-3 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 12.5%;
+    -ms-flex-preferred-size: 12.5%;
+    flex-basis: 12.5%;
+  }
+  /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-4 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -2741,7 +3133,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 16.66667%;
   }
   /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .block.medium-3 {
+  .block.medium-5 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 20.83333%;
+    -ms-flex-preferred-size: 20.83333%;
+    flex-basis: 20.83333%;
+  }
+  /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-6 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -2751,7 +3153,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 25%;
   }
   /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .block.medium-4 {
+  .block.medium-7 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 29.16667%;
+    -ms-flex-preferred-size: 29.16667%;
+    flex-basis: 29.16667%;
+  }
+  /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-8 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -2761,7 +3173,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 33.33333%;
   }
   /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .block.medium-5 {
+  .block.medium-9 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 37.5%;
+    -ms-flex-preferred-size: 37.5%;
+    flex-basis: 37.5%;
+  }
+  /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-10 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -2771,7 +3193,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 41.66667%;
   }
   /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .block.medium-6 {
+  .block.medium-11 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 45.83333%;
+    -ms-flex-preferred-size: 45.83333%;
+    flex-basis: 45.83333%;
+  }
+  /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-12 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -2781,7 +3213,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 50%;
   }
   /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .block.medium-7 {
+  .block.medium-13 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 54.16667%;
+    -ms-flex-preferred-size: 54.16667%;
+    flex-basis: 54.16667%;
+  }
+  /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-14 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -2791,7 +3233,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 58.33333%;
   }
   /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .block.medium-8 {
+  .block.medium-15 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 62.5%;
+    -ms-flex-preferred-size: 62.5%;
+    flex-basis: 62.5%;
+  }
+  /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-16 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -2801,7 +3253,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 66.66667%;
   }
   /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .block.medium-9 {
+  .block.medium-17 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 70.83333%;
+    -ms-flex-preferred-size: 70.83333%;
+    flex-basis: 70.83333%;
+  }
+  /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-18 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -2811,7 +3273,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 75%;
   }
   /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .block.medium-10 {
+  .block.medium-19 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 79.16667%;
+    -ms-flex-preferred-size: 79.16667%;
+    flex-basis: 79.16667%;
+  }
+  /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-20 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -2821,7 +3293,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 83.33333%;
   }
   /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .block.medium-11 {
+  .block.medium-21 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 87.5%;
+    -ms-flex-preferred-size: 87.5%;
+    flex-basis: 87.5%;
+  }
+  /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-22 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -2831,7 +3313,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 91.66667%;
   }
   /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .block.medium-12 {
+  .block.medium-23 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 95.83333%;
+    -ms-flex-preferred-size: 95.83333%;
+    flex-basis: 95.83333%;
+  }
+  /* line 81, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.medium-24 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -2858,12 +3350,32 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
+    -webkit-flex-basis: 4.16667%;
+    -ms-flex-preferred-size: 4.16667%;
+    flex-basis: 4.16667%;
+  }
+  /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-2 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
     -webkit-flex-basis: 8.33333%;
     -ms-flex-preferred-size: 8.33333%;
     flex-basis: 8.33333%;
   }
   /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .block.large-2 {
+  .block.large-3 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 12.5%;
+    -ms-flex-preferred-size: 12.5%;
+    flex-basis: 12.5%;
+  }
+  /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-4 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -2873,7 +3385,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 16.66667%;
   }
   /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .block.large-3 {
+  .block.large-5 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 20.83333%;
+    -ms-flex-preferred-size: 20.83333%;
+    flex-basis: 20.83333%;
+  }
+  /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-6 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -2883,7 +3405,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 25%;
   }
   /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .block.large-4 {
+  .block.large-7 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 29.16667%;
+    -ms-flex-preferred-size: 29.16667%;
+    flex-basis: 29.16667%;
+  }
+  /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-8 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -2893,7 +3425,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 33.33333%;
   }
   /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .block.large-5 {
+  .block.large-9 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 37.5%;
+    -ms-flex-preferred-size: 37.5%;
+    flex-basis: 37.5%;
+  }
+  /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-10 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -2903,7 +3445,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 41.66667%;
   }
   /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .block.large-6 {
+  .block.large-11 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 45.83333%;
+    -ms-flex-preferred-size: 45.83333%;
+    flex-basis: 45.83333%;
+  }
+  /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-12 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -2913,7 +3465,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 50%;
   }
   /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .block.large-7 {
+  .block.large-13 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 54.16667%;
+    -ms-flex-preferred-size: 54.16667%;
+    flex-basis: 54.16667%;
+  }
+  /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-14 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -2923,7 +3485,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 58.33333%;
   }
   /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .block.large-8 {
+  .block.large-15 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 62.5%;
+    -ms-flex-preferred-size: 62.5%;
+    flex-basis: 62.5%;
+  }
+  /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-16 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -2933,7 +3505,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 66.66667%;
   }
   /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .block.large-9 {
+  .block.large-17 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 70.83333%;
+    -ms-flex-preferred-size: 70.83333%;
+    flex-basis: 70.83333%;
+  }
+  /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-18 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -2943,7 +3525,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 75%;
   }
   /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .block.large-10 {
+  .block.large-19 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 79.16667%;
+    -ms-flex-preferred-size: 79.16667%;
+    flex-basis: 79.16667%;
+  }
+  /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-20 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -2953,7 +3545,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 83.33333%;
   }
   /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .block.large-11 {
+  .block.large-21 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 87.5%;
+    -ms-flex-preferred-size: 87.5%;
+    flex-basis: 87.5%;
+  }
+  /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-22 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -2963,7 +3565,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 91.66667%;
   }
   /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .block.large-12 {
+  .block.large-23 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 95.83333%;
+    -ms-flex-preferred-size: 95.83333%;
+    flex-basis: 95.83333%;
+  }
+  /* line 90, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .block.large-24 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3015,12 +3627,32 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
+  -webkit-flex-basis: 4.16667%;
+  -ms-flex-preferred-size: 4.16667%;
+  flex-basis: 4.16667%;
+}
+/* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.group.small-2 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
   -webkit-flex-basis: 8.33333%;
   -ms-flex-preferred-size: 8.33333%;
   flex-basis: 8.33333%;
 }
 /* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-.group.small-2 {
+.group.small-3 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-flex-basis: 12.5%;
+  -ms-flex-preferred-size: 12.5%;
+  flex-basis: 12.5%;
+}
+/* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.group.small-4 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -3030,7 +3662,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   flex-basis: 16.66667%;
 }
 /* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-.group.small-3 {
+.group.small-5 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-flex-basis: 20.83333%;
+  -ms-flex-preferred-size: 20.83333%;
+  flex-basis: 20.83333%;
+}
+/* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.group.small-6 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -3040,7 +3682,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   flex-basis: 25%;
 }
 /* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-.group.small-4 {
+.group.small-7 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-flex-basis: 29.16667%;
+  -ms-flex-preferred-size: 29.16667%;
+  flex-basis: 29.16667%;
+}
+/* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.group.small-8 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -3050,7 +3702,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   flex-basis: 33.33333%;
 }
 /* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-.group.small-5 {
+.group.small-9 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-flex-basis: 37.5%;
+  -ms-flex-preferred-size: 37.5%;
+  flex-basis: 37.5%;
+}
+/* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.group.small-10 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -3060,7 +3722,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   flex-basis: 41.66667%;
 }
 /* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-.group.small-6 {
+.group.small-11 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-flex-basis: 45.83333%;
+  -ms-flex-preferred-size: 45.83333%;
+  flex-basis: 45.83333%;
+}
+/* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.group.small-12 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -3070,7 +3742,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   flex-basis: 50%;
 }
 /* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-.group.small-7 {
+.group.small-13 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-flex-basis: 54.16667%;
+  -ms-flex-preferred-size: 54.16667%;
+  flex-basis: 54.16667%;
+}
+/* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.group.small-14 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -3080,7 +3762,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   flex-basis: 58.33333%;
 }
 /* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-.group.small-8 {
+.group.small-15 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-flex-basis: 62.5%;
+  -ms-flex-preferred-size: 62.5%;
+  flex-basis: 62.5%;
+}
+/* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.group.small-16 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -3090,7 +3782,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   flex-basis: 66.66667%;
 }
 /* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-.group.small-9 {
+.group.small-17 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-flex-basis: 70.83333%;
+  -ms-flex-preferred-size: 70.83333%;
+  flex-basis: 70.83333%;
+}
+/* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.group.small-18 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -3100,7 +3802,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   flex-basis: 75%;
 }
 /* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-.group.small-10 {
+.group.small-19 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-flex-basis: 79.16667%;
+  -ms-flex-preferred-size: 79.16667%;
+  flex-basis: 79.16667%;
+}
+/* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.group.small-20 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -3110,7 +3822,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   flex-basis: 83.33333%;
 }
 /* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-.group.small-11 {
+.group.small-21 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-flex-basis: 87.5%;
+  -ms-flex-preferred-size: 87.5%;
+  flex-basis: 87.5%;
+}
+/* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.group.small-22 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -3120,7 +3842,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   flex-basis: 91.66667%;
 }
 /* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-.group.small-12 {
+.group.small-23 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-flex-basis: 95.83333%;
+  -ms-flex-preferred-size: 95.83333%;
+  flex-basis: 95.83333%;
+}
+/* line 116, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.group.small-24 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -3146,12 +3878,32 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
+    -webkit-flex-basis: 4.16667%;
+    -ms-flex-preferred-size: 4.16667%;
+    flex-basis: 4.16667%;
+  }
+  /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.medium-2 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
     -webkit-flex-basis: 8.33333%;
     -ms-flex-preferred-size: 8.33333%;
     flex-basis: 8.33333%;
   }
   /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .group.medium-2 {
+  .group.medium-3 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 12.5%;
+    -ms-flex-preferred-size: 12.5%;
+    flex-basis: 12.5%;
+  }
+  /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.medium-4 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3161,7 +3913,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 16.66667%;
   }
   /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .group.medium-3 {
+  .group.medium-5 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 20.83333%;
+    -ms-flex-preferred-size: 20.83333%;
+    flex-basis: 20.83333%;
+  }
+  /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.medium-6 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3171,7 +3933,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 25%;
   }
   /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .group.medium-4 {
+  .group.medium-7 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 29.16667%;
+    -ms-flex-preferred-size: 29.16667%;
+    flex-basis: 29.16667%;
+  }
+  /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.medium-8 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3181,7 +3953,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 33.33333%;
   }
   /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .group.medium-5 {
+  .group.medium-9 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 37.5%;
+    -ms-flex-preferred-size: 37.5%;
+    flex-basis: 37.5%;
+  }
+  /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.medium-10 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3191,7 +3973,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 41.66667%;
   }
   /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .group.medium-6 {
+  .group.medium-11 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 45.83333%;
+    -ms-flex-preferred-size: 45.83333%;
+    flex-basis: 45.83333%;
+  }
+  /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.medium-12 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3201,7 +3993,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 50%;
   }
   /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .group.medium-7 {
+  .group.medium-13 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 54.16667%;
+    -ms-flex-preferred-size: 54.16667%;
+    flex-basis: 54.16667%;
+  }
+  /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.medium-14 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3211,7 +4013,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 58.33333%;
   }
   /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .group.medium-8 {
+  .group.medium-15 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 62.5%;
+    -ms-flex-preferred-size: 62.5%;
+    flex-basis: 62.5%;
+  }
+  /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.medium-16 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3221,7 +4033,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 66.66667%;
   }
   /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .group.medium-9 {
+  .group.medium-17 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 70.83333%;
+    -ms-flex-preferred-size: 70.83333%;
+    flex-basis: 70.83333%;
+  }
+  /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.medium-18 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3231,7 +4053,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 75%;
   }
   /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .group.medium-10 {
+  .group.medium-19 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 79.16667%;
+    -ms-flex-preferred-size: 79.16667%;
+    flex-basis: 79.16667%;
+  }
+  /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.medium-20 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3241,7 +4073,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 83.33333%;
   }
   /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .group.medium-11 {
+  .group.medium-21 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 87.5%;
+    -ms-flex-preferred-size: 87.5%;
+    flex-basis: 87.5%;
+  }
+  /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.medium-22 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3251,7 +4093,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 91.66667%;
   }
   /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .group.medium-12 {
+  .group.medium-23 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 95.83333%;
+    -ms-flex-preferred-size: 95.83333%;
+    flex-basis: 95.83333%;
+  }
+  /* line 124, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.medium-24 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3278,12 +4130,32 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
+    -webkit-flex-basis: 4.16667%;
+    -ms-flex-preferred-size: 4.16667%;
+    flex-basis: 4.16667%;
+  }
+  /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.large-2 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
     -webkit-flex-basis: 8.33333%;
     -ms-flex-preferred-size: 8.33333%;
     flex-basis: 8.33333%;
   }
   /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .group.large-2 {
+  .group.large-3 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 12.5%;
+    -ms-flex-preferred-size: 12.5%;
+    flex-basis: 12.5%;
+  }
+  /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.large-4 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3293,7 +4165,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 16.66667%;
   }
   /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .group.large-3 {
+  .group.large-5 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 20.83333%;
+    -ms-flex-preferred-size: 20.83333%;
+    flex-basis: 20.83333%;
+  }
+  /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.large-6 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3303,7 +4185,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 25%;
   }
   /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .group.large-4 {
+  .group.large-7 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 29.16667%;
+    -ms-flex-preferred-size: 29.16667%;
+    flex-basis: 29.16667%;
+  }
+  /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.large-8 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3313,7 +4205,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 33.33333%;
   }
   /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .group.large-5 {
+  .group.large-9 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 37.5%;
+    -ms-flex-preferred-size: 37.5%;
+    flex-basis: 37.5%;
+  }
+  /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.large-10 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3323,7 +4225,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 41.66667%;
   }
   /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .group.large-6 {
+  .group.large-11 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 45.83333%;
+    -ms-flex-preferred-size: 45.83333%;
+    flex-basis: 45.83333%;
+  }
+  /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.large-12 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3333,7 +4245,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 50%;
   }
   /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .group.large-7 {
+  .group.large-13 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 54.16667%;
+    -ms-flex-preferred-size: 54.16667%;
+    flex-basis: 54.16667%;
+  }
+  /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.large-14 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3343,7 +4265,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 58.33333%;
   }
   /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .group.large-8 {
+  .group.large-15 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 62.5%;
+    -ms-flex-preferred-size: 62.5%;
+    flex-basis: 62.5%;
+  }
+  /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.large-16 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3353,7 +4285,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 66.66667%;
   }
   /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .group.large-9 {
+  .group.large-17 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 70.83333%;
+    -ms-flex-preferred-size: 70.83333%;
+    flex-basis: 70.83333%;
+  }
+  /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.large-18 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3363,7 +4305,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 75%;
   }
   /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .group.large-10 {
+  .group.large-19 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 79.16667%;
+    -ms-flex-preferred-size: 79.16667%;
+    flex-basis: 79.16667%;
+  }
+  /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.large-20 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3373,7 +4325,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 83.33333%;
   }
   /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .group.large-11 {
+  .group.large-21 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 87.5%;
+    -ms-flex-preferred-size: 87.5%;
+    flex-basis: 87.5%;
+  }
+  /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.large-22 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3383,7 +4345,17 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
     flex-basis: 91.66667%;
   }
   /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
-  .group.large-12 {
+  .group.large-23 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex-basis: 95.83333%;
+    -ms-flex-preferred-size: 95.83333%;
+    flex-basis: 95.83333%;
+  }
+  /* line 133, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .group.large-24 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
@@ -3566,50 +4538,98 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
 }
 /* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
 .vertical > .small-1, .small-vertical > .small-1, .medium-vertical > .small-1, .large-vertical > .small-1 {
-  height: 8.33333%;
+  height: 4.16667%;
 }
 /* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
 .vertical > .small-2, .small-vertical > .small-2, .medium-vertical > .small-2, .large-vertical > .small-2 {
-  height: 16.66667%;
+  height: 8.33333%;
 }
 /* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
 .vertical > .small-3, .small-vertical > .small-3, .medium-vertical > .small-3, .large-vertical > .small-3 {
-  height: 25%;
+  height: 12.5%;
 }
 /* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
 .vertical > .small-4, .small-vertical > .small-4, .medium-vertical > .small-4, .large-vertical > .small-4 {
-  height: 33.33333%;
+  height: 16.66667%;
 }
 /* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
 .vertical > .small-5, .small-vertical > .small-5, .medium-vertical > .small-5, .large-vertical > .small-5 {
-  height: 41.66667%;
+  height: 20.83333%;
 }
 /* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
 .vertical > .small-6, .small-vertical > .small-6, .medium-vertical > .small-6, .large-vertical > .small-6 {
-  height: 50%;
+  height: 25%;
 }
 /* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
 .vertical > .small-7, .small-vertical > .small-7, .medium-vertical > .small-7, .large-vertical > .small-7 {
-  height: 58.33333%;
+  height: 29.16667%;
 }
 /* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
 .vertical > .small-8, .small-vertical > .small-8, .medium-vertical > .small-8, .large-vertical > .small-8 {
-  height: 66.66667%;
+  height: 33.33333%;
 }
 /* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
 .vertical > .small-9, .small-vertical > .small-9, .medium-vertical > .small-9, .large-vertical > .small-9 {
-  height: 75%;
+  height: 37.5%;
 }
 /* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
 .vertical > .small-10, .small-vertical > .small-10, .medium-vertical > .small-10, .large-vertical > .small-10 {
-  height: 83.33333%;
+  height: 41.66667%;
 }
 /* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
 .vertical > .small-11, .small-vertical > .small-11, .medium-vertical > .small-11, .large-vertical > .small-11 {
-  height: 91.66667%;
+  height: 45.83333%;
 }
 /* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
 .vertical > .small-12, .small-vertical > .small-12, .medium-vertical > .small-12, .large-vertical > .small-12 {
+  height: 50%;
+}
+/* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.vertical > .small-13, .small-vertical > .small-13, .medium-vertical > .small-13, .large-vertical > .small-13 {
+  height: 54.16667%;
+}
+/* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.vertical > .small-14, .small-vertical > .small-14, .medium-vertical > .small-14, .large-vertical > .small-14 {
+  height: 58.33333%;
+}
+/* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.vertical > .small-15, .small-vertical > .small-15, .medium-vertical > .small-15, .large-vertical > .small-15 {
+  height: 62.5%;
+}
+/* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.vertical > .small-16, .small-vertical > .small-16, .medium-vertical > .small-16, .large-vertical > .small-16 {
+  height: 66.66667%;
+}
+/* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.vertical > .small-17, .small-vertical > .small-17, .medium-vertical > .small-17, .large-vertical > .small-17 {
+  height: 70.83333%;
+}
+/* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.vertical > .small-18, .small-vertical > .small-18, .medium-vertical > .small-18, .large-vertical > .small-18 {
+  height: 75%;
+}
+/* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.vertical > .small-19, .small-vertical > .small-19, .medium-vertical > .small-19, .large-vertical > .small-19 {
+  height: 79.16667%;
+}
+/* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.vertical > .small-20, .small-vertical > .small-20, .medium-vertical > .small-20, .large-vertical > .small-20 {
+  height: 83.33333%;
+}
+/* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.vertical > .small-21, .small-vertical > .small-21, .medium-vertical > .small-21, .large-vertical > .small-21 {
+  height: 87.5%;
+}
+/* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.vertical > .small-22, .small-vertical > .small-22, .medium-vertical > .small-22, .large-vertical > .small-22 {
+  height: 91.66667%;
+}
+/* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.vertical > .small-23, .small-vertical > .small-23, .medium-vertical > .small-23, .large-vertical > .small-23 {
+  height: 95.83333%;
+}
+/* line 189, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+.vertical > .small-24, .small-vertical > .small-24, .medium-vertical > .small-24, .large-vertical > .small-24 {
   height: 100%;
 }
 @media only screen and (min-width: 40.063em) {
@@ -3619,50 +4639,98 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   }
   /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .medium-1, .small-vertical > .medium-1, .medium-vertical > .medium-1, .large-vertical > .medium-1 {
-    height: 8.33333%;
+    height: 4.16667%;
   }
   /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .medium-2, .small-vertical > .medium-2, .medium-vertical > .medium-2, .large-vertical > .medium-2 {
-    height: 16.66667%;
+    height: 8.33333%;
   }
   /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .medium-3, .small-vertical > .medium-3, .medium-vertical > .medium-3, .large-vertical > .medium-3 {
-    height: 25%;
+    height: 12.5%;
   }
   /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .medium-4, .small-vertical > .medium-4, .medium-vertical > .medium-4, .large-vertical > .medium-4 {
-    height: 33.33333%;
+    height: 16.66667%;
   }
   /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .medium-5, .small-vertical > .medium-5, .medium-vertical > .medium-5, .large-vertical > .medium-5 {
-    height: 41.66667%;
+    height: 20.83333%;
   }
   /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .medium-6, .small-vertical > .medium-6, .medium-vertical > .medium-6, .large-vertical > .medium-6 {
-    height: 50%;
+    height: 25%;
   }
   /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .medium-7, .small-vertical > .medium-7, .medium-vertical > .medium-7, .large-vertical > .medium-7 {
-    height: 58.33333%;
+    height: 29.16667%;
   }
   /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .medium-8, .small-vertical > .medium-8, .medium-vertical > .medium-8, .large-vertical > .medium-8 {
-    height: 66.66667%;
+    height: 33.33333%;
   }
   /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .medium-9, .small-vertical > .medium-9, .medium-vertical > .medium-9, .large-vertical > .medium-9 {
-    height: 75%;
+    height: 37.5%;
   }
   /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .medium-10, .small-vertical > .medium-10, .medium-vertical > .medium-10, .large-vertical > .medium-10 {
-    height: 83.33333%;
+    height: 41.66667%;
   }
   /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .medium-11, .small-vertical > .medium-11, .medium-vertical > .medium-11, .large-vertical > .medium-11 {
-    height: 91.66667%;
+    height: 45.83333%;
   }
   /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .medium-12, .small-vertical > .medium-12, .medium-vertical > .medium-12, .large-vertical > .medium-12 {
+    height: 50%;
+  }
+  /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .medium-13, .small-vertical > .medium-13, .medium-vertical > .medium-13, .large-vertical > .medium-13 {
+    height: 54.16667%;
+  }
+  /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .medium-14, .small-vertical > .medium-14, .medium-vertical > .medium-14, .large-vertical > .medium-14 {
+    height: 58.33333%;
+  }
+  /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .medium-15, .small-vertical > .medium-15, .medium-vertical > .medium-15, .large-vertical > .medium-15 {
+    height: 62.5%;
+  }
+  /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .medium-16, .small-vertical > .medium-16, .medium-vertical > .medium-16, .large-vertical > .medium-16 {
+    height: 66.66667%;
+  }
+  /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .medium-17, .small-vertical > .medium-17, .medium-vertical > .medium-17, .large-vertical > .medium-17 {
+    height: 70.83333%;
+  }
+  /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .medium-18, .small-vertical > .medium-18, .medium-vertical > .medium-18, .large-vertical > .medium-18 {
+    height: 75%;
+  }
+  /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .medium-19, .small-vertical > .medium-19, .medium-vertical > .medium-19, .large-vertical > .medium-19 {
+    height: 79.16667%;
+  }
+  /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .medium-20, .small-vertical > .medium-20, .medium-vertical > .medium-20, .large-vertical > .medium-20 {
+    height: 83.33333%;
+  }
+  /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .medium-21, .small-vertical > .medium-21, .medium-vertical > .medium-21, .large-vertical > .medium-21 {
+    height: 87.5%;
+  }
+  /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .medium-22, .small-vertical > .medium-22, .medium-vertical > .medium-22, .large-vertical > .medium-22 {
+    height: 91.66667%;
+  }
+  /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .medium-23, .small-vertical > .medium-23, .medium-vertical > .medium-23, .large-vertical > .medium-23 {
+    height: 95.83333%;
+  }
+  /* line 196, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .medium-24, .small-vertical > .medium-24, .medium-vertical > .medium-24, .large-vertical > .medium-24 {
     height: 100%;
   }
 }
@@ -3673,50 +4741,98 @@ form.small-6-up > *:nth-child(6n-5), form > *.small-6-up > *:nth-child(6n-5) {
   }
   /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .large-1, .small-vertical > .large-1, .medium-vertical > .large-1, .large-vertical > .large-1 {
-    height: 8.33333%;
+    height: 4.16667%;
   }
   /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .large-2, .small-vertical > .large-2, .medium-vertical > .large-2, .large-vertical > .large-2 {
-    height: 16.66667%;
+    height: 8.33333%;
   }
   /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .large-3, .small-vertical > .large-3, .medium-vertical > .large-3, .large-vertical > .large-3 {
-    height: 25%;
+    height: 12.5%;
   }
   /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .large-4, .small-vertical > .large-4, .medium-vertical > .large-4, .large-vertical > .large-4 {
-    height: 33.33333%;
+    height: 16.66667%;
   }
   /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .large-5, .small-vertical > .large-5, .medium-vertical > .large-5, .large-vertical > .large-5 {
-    height: 41.66667%;
+    height: 20.83333%;
   }
   /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .large-6, .small-vertical > .large-6, .medium-vertical > .large-6, .large-vertical > .large-6 {
-    height: 50%;
+    height: 25%;
   }
   /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .large-7, .small-vertical > .large-7, .medium-vertical > .large-7, .large-vertical > .large-7 {
-    height: 58.33333%;
+    height: 29.16667%;
   }
   /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .large-8, .small-vertical > .large-8, .medium-vertical > .large-8, .large-vertical > .large-8 {
-    height: 66.66667%;
+    height: 33.33333%;
   }
   /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .large-9, .small-vertical > .large-9, .medium-vertical > .large-9, .large-vertical > .large-9 {
-    height: 75%;
+    height: 37.5%;
   }
   /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .large-10, .small-vertical > .large-10, .medium-vertical > .large-10, .large-vertical > .large-10 {
-    height: 83.33333%;
+    height: 41.66667%;
   }
   /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .large-11, .small-vertical > .large-11, .medium-vertical > .large-11, .large-vertical > .large-11 {
-    height: 91.66667%;
+    height: 45.83333%;
   }
   /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
   .vertical > .large-12, .small-vertical > .large-12, .medium-vertical > .large-12, .large-vertical > .large-12 {
+    height: 50%;
+  }
+  /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .large-13, .small-vertical > .large-13, .medium-vertical > .large-13, .large-vertical > .large-13 {
+    height: 54.16667%;
+  }
+  /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .large-14, .small-vertical > .large-14, .medium-vertical > .large-14, .large-vertical > .large-14 {
+    height: 58.33333%;
+  }
+  /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .large-15, .small-vertical > .large-15, .medium-vertical > .large-15, .large-vertical > .large-15 {
+    height: 62.5%;
+  }
+  /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .large-16, .small-vertical > .large-16, .medium-vertical > .large-16, .large-vertical > .large-16 {
+    height: 66.66667%;
+  }
+  /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .large-17, .small-vertical > .large-17, .medium-vertical > .large-17, .large-vertical > .large-17 {
+    height: 70.83333%;
+  }
+  /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .large-18, .small-vertical > .large-18, .medium-vertical > .large-18, .large-vertical > .large-18 {
+    height: 75%;
+  }
+  /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .large-19, .small-vertical > .large-19, .medium-vertical > .large-19, .large-vertical > .large-19 {
+    height: 79.16667%;
+  }
+  /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .large-20, .small-vertical > .large-20, .medium-vertical > .large-20, .large-vertical > .large-20 {
+    height: 83.33333%;
+  }
+  /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .large-21, .small-vertical > .large-21, .medium-vertical > .large-21, .large-vertical > .large-21 {
+    height: 87.5%;
+  }
+  /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .large-22, .small-vertical > .large-22, .medium-vertical > .large-22, .large-vertical > .large-22 {
+    height: 91.66667%;
+  }
+  /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .large-23, .small-vertical > .large-23, .medium-vertical > .large-23, .large-vertical > .large-23 {
+    height: 95.83333%;
+  }
+  /* line 204, ../../../../src/assets/scss/foundation-6-alpha/components/_grid.scss */
+  .vertical > .large-24, .small-vertical > .large-24, .medium-vertical > .large-24, .large-vertical > .large-24 {
     height: 100%;
   }
 }

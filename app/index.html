@@ -18,6 +18,11 @@
       window.EmberENV = window.EmberCordovaAnimationDemoENV.EmberENV;
     </script>
     <script src="assets/vendor.js"></script>
+    <script type="text/javascript">
+      $(function() {
+        FastClick.attach(document.body);
+      });
+    </script>
     <script src="assets/ember-cordova-animation-demo.js"></script>
     <script>
       window.EmberCordovaAnimationDemo = require('ember-cordova-animation-demo/app')['default'].create(EmberCordovaAnimationDemoENV.APP);

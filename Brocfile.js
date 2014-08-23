@@ -17,6 +17,10 @@ var app = new EmberApp();
 // please specify an object with the list of modules as keys
 // along with the exports of each module as its value.
 
-app.import('vendor/foundation-6-alpha.css');
+app.import('vendor/foundation-6-alpha/foundation-6-alpha.css');
+
+app.import('bower_components/fastclick/lib/fastclick.js');
+app.import('bower_components/foundation/js/foundation/foundation.js');
+app.import('bower_components/foundation/js/foundation/foundation.topbar.js');
 
 module.exports = app.toTree();
